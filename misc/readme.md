@@ -1,0 +1,2 @@
+- [hangman](hangman.py)
+    - My solution to [Hang on Mate!](https://wwcodemanila.github.io/WWCodeManila-Python/#/basic_concepts/exercises/hangman/README)
