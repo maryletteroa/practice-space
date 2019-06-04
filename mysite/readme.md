@@ -38,5 +38,5 @@ envs
 #### Footnotes
 [^1]: included as an example, uses `db.sqlite3` (can be read using [DB Brower](https://sqlitebrowser.org/))
 
-[^2]: `AUTH_PASSWORD_VALIDATORS` has been emptied in the local_settings.py file
+[^2]: `AUTH_PASSWORD_VALIDATORS` has been emptied in the `local_settings.py` file
 
