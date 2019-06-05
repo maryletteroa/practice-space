@@ -1,2 +1,4 @@
 - [hangman](hangman.py)
     - My solution to [Hang on Mate!](https://wwcodemanila.github.io/WWCodeManila-Python/#/basic_concepts/exercises/hangman/README)
+- [2048 merged logic](2048_merge_logic.py)
+    - My solution to [Phase 1 of this project](https://github.com/enixdark/principlescomputing-001/blob/master/Week0/Instructions.md) from the Principles of Computing offered by Rice University in Coursera.
