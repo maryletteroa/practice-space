@@ -46,7 +46,7 @@ def merge(line):
                 if merged[i] == False:
                     results[results.index(0)] = a
         else:
-            # when the index runs out, add the number if
+            # when the index runs out, add the number if it
             #   has not been used
             if merged[i] == False:
                 results[results.index(0)] = a
