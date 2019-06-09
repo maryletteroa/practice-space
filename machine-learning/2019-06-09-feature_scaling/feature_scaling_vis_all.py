@@ -2,14 +2,7 @@
 # @Author: Marylette B. Roa
 # @Date:   2019-06-09 14:18:14
 # @Last Modified by:   Marylette B. Roa
-# @Last Modified time: 2019-06-09 14:59:54
-
-# -*- coding: utf-8 -*-
-# @Author: Marylette B. Roa
-# @Date:   2019-06-09 12:00:48
-# @Last Modified by:   Marylette B. Roa
-# @Last Modified time: 2019-06-09 14:17:34
-
+# @Last Modified time: 2019-06-09 15:57:03
 
 from sklearn.datasets import load_breast_cancer
 from sklearn.model_selection import train_test_split
