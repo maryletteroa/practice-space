@@ -1,1 +1,0 @@
-Scripts used in this [post](https://maryletteroa.github.io/machine%20learning/features_scaling/).
