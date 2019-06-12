@@ -3,7 +3,7 @@ Based on the [Django Girls Tutorial](https://tutorial.djangogirls.org/en/). Setu
 ## Test
 Install dependencies:
 ```
-pip freeze -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Define the `SECRET_KEY` in the local environment, e.g.:
