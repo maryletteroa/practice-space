@@ -1,0 +1,1 @@
+A game of Space Invaders implemented in Python using `turtle`. Based on [this tutorial](http://christianthompson.com/node/45).
