@@ -6,3 +6,7 @@ envs
 errors.txt
 logs.txt
 traceback.txt
+*.rpyc
+saves
+cache
+tl
