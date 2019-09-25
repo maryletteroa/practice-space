@@ -1,0 +1,28 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 1, in script
+    ﻿define m = Character("Me", "#d8274a")
+  File "game/script.rpy", line 1, in <module>
+    ﻿define m = Character("Me", "#d8274a")
+TypeError: 'kind' is an invalid keyword argument for this function
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 1, in script
+    ﻿define m = Character("Me", "#d8274a")
+  File "D:\Programs\renpy-7.3.2-sdk\renpy\ast.py", line 2106, in execute
+    value = renpy.python.py_eval_bytecode(self.code.bytecode)
+  File "D:\Programs\renpy-7.3.2-sdk\renpy\python.py", line 2028, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 1, in <module>
+    ﻿define m = Character("Me", "#d8274a")
+  File "D:\Programs\renpy-7.3.2-sdk\renpy\character.py", line 1438, in Character
+    return type(kind)(name, kind=kind, **properties)
+TypeError: 'kind' is an invalid keyword argument for this function
+
+Windows-8-6.2.9200
+Ren'Py 7.3.2.320
+Mystery of the haunted house 1.0
+Tue Sep 24 16:14:56 2019
